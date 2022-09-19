@@ -32,4 +32,4 @@ const Context = () => {
   )
 }
 
-export default Context
+export default Context;
